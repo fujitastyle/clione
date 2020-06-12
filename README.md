@@ -2,17 +2,20 @@
 
 # ActivityPub Logger written in Rust
 
-- [x] host-meta
-- [x] webfinger
-- [x] actor
-- [ ] inbox
+- [ ] nodeinfo endpoint
+- [ ] host-meta endpoint
+- [x] webfinger endpoint
+- [x] actor endpoint
+- [x] inbox follow,undo
+- [ ] db follow,undo
 
-- [ ] http-header-signature
+- [x] http-header-signature
 - [ ] redis
+- [ ] activity-cache
 - [ ] delivery-worker
 
 - [ ] dotenv
-- [ ] relay-status
+- [ ] relay-service
 - [ ] search-service
 - [ ] admin-page
 - [ ] top-page-css
