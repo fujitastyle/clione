@@ -1,3 +1,7 @@
+Project is dead
+飽きた
+
+
 # clione
 
 # ActivityPub Logger written in Rust
